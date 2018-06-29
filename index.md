@@ -20,4 +20,4 @@ This work provides a framework to assess competency-based engineering courses. T
 
 ## Example of Application
 
-To illustrate how to apply the proposed model a didactical example is reported. The [data](https://github.com/anonymizedforbreview/OSHW/blob/master/references.bib) come from an Automatic Control course of the fifth semester which is part of the new competency-based study program of the master degree on Electrical Engineering at a large university in the central zone of Chile, in South America (it has been anonymized for blind review).
+To illustrate how to apply the proposed model a didactical example is reported. The [data](https://github.com/anonymizedforbreview/CBE/blob/master/data.xlsx) come from an Automatic Control course of the fifth semester which is part of the new competency-based study program of the master degree on Electrical Engineering at a large university in the central zone of Chile, in South America (it has been anonymized for blind review).
