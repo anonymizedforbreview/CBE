@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Background 
 
-You can use the [editor on GitHub](https://github.com/anonymizedforbreview/CBE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Many engineering study programs around the world have declared its conversion towards a competency-based education model (CBE). However, the implementation of CBE is not a straightforward task, especially regarding the assessment part. Since engineering teachers do not usually have pedagogical training or origin, they often ignore how to correctly perform the assessment under this curricular model.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Purpose 
 
-### Markdown
+The purpose of this work is to provide a systematic assessment model for engineering competency-based courses which can be used as a step-by-step guide.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Method 
 
-```markdown
-Syntax highlighted code block
+Articles about assessment strategies for competency-based engineering education (CBEE) were analysed concluding that a systematic assessment model was required. Subsequently, a structured assessment model was designed to be used as a step-by-step guide for teachers involved in CBEE programs. The model was applied into three versions of an engineering regular course to verify its effectiveness.
 
-# Header 1
-## Header 2
-### Header 3
+## Results
 
-- Bulleted
-- List
+Three results can be highlighted: i) by using traditional numeric scales, the objectivity in the competency assessment process is guaranteed, ii) the proposed assessment model is generic and therefore, it can be applied to other disciplines, iii) the model was applied in an engineering regular course where results obtained demonstrated its effectiveness.
 
-1. Numbered
-2. List
+## Conclusions 
 
-**Bold** and _Italic_ and `Code` text
+This work provides a framework to assess competency-based engineering courses. The application tests analysed show how to use the assessment model for decision making in order to improve the academic performance of a course. Future research directions include testing the model in other disciplines and designing a framework to evaluate a whole competency-based study program.
 
-[Link](url) and ![Image](src)
-```
+## Example of Application
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anonymizedforbreview/CBE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To illustrate how to apply the proposed model a didactical example is reported. The [data](https://github.com/anonymizedforbreview/OSHW/blob/master/references.bib) come from an Automatic Control course of the fifth semester which is part of the new competency-based study program of the master degree on Electrical Engineering at a large university in the central zone of Chile, in South America (it has been anonymized for blind review).
